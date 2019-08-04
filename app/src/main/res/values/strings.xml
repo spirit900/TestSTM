@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TestSTM</string>
+    <string name="text_activity1">Это первое Activity</string>
+    <string name="text_activity2">Это второе Activity</string>
+
+</resources>
